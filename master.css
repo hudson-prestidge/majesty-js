@@ -20,6 +20,11 @@ body {
 
 .unit {
   border: 0.1em solid blue;
+  position: relative;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
   width: 2em;
   height: 2em;
 }
